@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MessageVault</string>
+    <string name="listener_label">MessageVault notification capture</string>
+</resources>
